@@ -10,4 +10,3 @@ My current personal project is [Easyback](https://easyback.io). If you have any 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fridious&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fridious&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridious&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
